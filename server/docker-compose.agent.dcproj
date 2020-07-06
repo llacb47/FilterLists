@@ -4,9 +4,7 @@
     <ProjectVersion>2.1</ProjectVersion>
     <DockerTargetOS>Linux</DockerTargetOS>
     <ProjectGuid>26883901-339a-44cf-8894-45f6a3a5ebab</ProjectGuid>
-    <DockerLaunchAction>LaunchBrowser</DockerLaunchAction>
-    <DockerServiceUrl>{Scheme}://localhost:{ServicePort}/{Scheme}://{ServiceHost}:{ServicePort}</DockerServiceUrl>
-    <DockerServiceName>filterlists.api</DockerServiceName>
+    <DockerServiceName>filterlists.agent</DockerServiceName>
   </PropertyGroup>
   <ItemGroup>
     <None Include=".dockerignore" />
@@ -14,6 +12,6 @@
     <None Include="docker-compose.override.yml">
       <DependentUpon>docker-compose.yml</DependentUpon>
     </None>
-    <None Include="docker-compose.web.yml" />
+    <None Include="docker-compose.agent.yml" />
   </ItemGroup>
 </Project>
