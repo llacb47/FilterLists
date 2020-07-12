@@ -19357,21 +19357,21 @@
   },
   {
     "description": "Ads and tracking hosts I have seen around the Internet. Some are rare. Some are popular.",
-    "homeUrl": "https://github.com/infinitytec/blocklists",
+    "homeUrl": "https://infinitytec.github.io/blocklists/blocklists.html",
     "id": 1921,
     "issuesUrl": "https://github.com/infinitytec/blocklists/issues",
     "licenseId": 2,
-    "name": "Not Good Pi - Ads and Trackers",
+    "name": "infinitytec's blocklists - Ads and Trackers",
     "syntaxId": 1,
     "viewUrl": "https://raw.githubusercontent.com/infinitytec/blocklists/master/ads-and-trackers.txt"
   },
   {
     "description": "Because they don't deserve your traffic.",
-    "homeUrl": "https://github.com/infinitytec/blocklists",
+    "homeUrl": "https://infinitytec.github.io/blocklists/blocklists.html",
     "id": 1922,
     "issuesUrl": "https://github.com/infinitytec/blocklists/issues",
     "licenseId": 2,
-    "name": "Not Good Pi - Scams and Phishing",
+    "name": "infinitytec's blocklists - Scams and Phishing",
     "syntaxId": 1,
     "viewUrl": "https://raw.githubusercontent.com/infinitytec/blocklists/master/scams-and-phishing.txt"
   },
@@ -23468,5 +23468,35 @@
     "viewUrl": "https://gitlab.com/curben/phishing-filter/raw/master/dist/phishing-filter-unbound.conf",
     "viewUrlMirror1": "https://cdn.statically.io/gl/curben/phishing-filter/master/dist/phishing-filter-unbound.conf",
     "viewUrlMirror2": "https://glcdn.githack.com/curben/phishing-filter/raw/master/dist/phishing-filter-unbound.conf"
+  },
+  {
+    "description": "Ads and ad sections in websites.",
+    "homeUrl": "https://infinitytec.github.io/blocklists/blocklists.html",
+    "id": 2329,
+    "issuesUrl": "https://github.com/infinitytec/blocklists/issues",
+    "licenseId": 2,
+    "name": "infinitytec's blocklists - Adfilters",
+    "syntaxId": 4,
+    "viewUrl": "https://raw.githubusercontent.com/infinitytec/blocklists/master/adfilters.txt"
+  },
+  {
+    "description": "Annoyances such as cookie banners.",
+    "homeUrl": "https://infinitytec.github.io/blocklists/blocklists.html",
+    "id": 2330,
+    "issuesUrl": "https://github.com/infinitytec/blocklists/issues",
+    "licenseId": 2,
+    "name": "infinitytec's blocklists - Annoyances",
+    "syntaxId": 4,
+    "viewUrl": "https://github.com/infinitytec/blocklists/raw/master/annoyances.txt"
+  },
+  {
+    "description": "Antivax sites and other medical misinformation.",
+    "homeUrl": "https://infinitytec.github.io/blocklists/blocklists.html",
+    "id": 2331,
+    "issuesUrl": "https://github.com/infinitytec/blocklists/issues",
+    "licenseId": 2,
+    "name": "infinitytec's blocklists - Medical pseudoscience",
+    "syntaxId": 4,
+    "viewUrl": "https://github.com/infinitytec/blocklists/raw/master/medicalpseudoscience.txt"
   }
 ]
