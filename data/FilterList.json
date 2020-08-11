@@ -1302,6 +1302,7 @@
     "descriptionSourceUrl": "https://github.com/StevenBlack/hosts",
     "homeUrl": "https://github.com/FadeMind/hosts.extras",
     "id": 138,
+    "isDeleted": true,
     "issuesUrl": "https://github.com/FadeMind/hosts.extras/issues",
     "licenseId": 2,
     "name": "StreamingAds",
@@ -2721,7 +2722,6 @@
   {
     "description": "EasyList Lithuania is an affiliated filter list written by gymka that specifically removes adverts on Lithuanian language websites.",
     "descriptionSourceUrl": "https://easylist.to/pages/other-supplementary-filter-lists-and-easylist-variants.html",
-    "emailAddress": "algimantas@margevicius.lt",
     "forumUrl": "https://forums.lanik.us/viewforum.php?f=101",
     "homeUrl": "https://github.com/EasyList-Lithuania/easylist_lithuania",
     "id": 267,
@@ -2729,8 +2729,7 @@
     "licenseId": 4,
     "name": "EasyList Lithuania",
     "syntaxId": 3,
-    "updatedDate": "2019-03-03T09:55:11",
-    "viewUrl": "https://margevicius.lt/easylistlithuania.txt"
+    "viewUrl": "https://raw.githubusercontent.com/EasyList-Lithuania/easylist_lithuania/master/easylistlithuania.txt"
   },
   {
     "description": "This is a lite version of EasyList. Only for Simplified Chinese language websites.",
@@ -2829,14 +2828,12 @@
   {
     "description": "Czech filters for Adblock Plus.",
     "descriptionSourceUrl": "http://adblock.dajbych.net/adblock.txt",
-    "homeUrl": "http://adblock.dajbych.net/",
     "id": 277,
     "licenseId": 5,
     "name": "Czech Filters for AdBlock",
     "syntaxId": 3,
     "updatedDate": "2014-08-16T00:00:00",
-    "viewUrl": "http://adblock.dajbych.net/adblock.txt",
-    "viewUrlMirror1": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AncientLibrary/Czech%20Filters%20for%20Adblock%20Plus"
+    "viewUrl": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AncientLibrary/Czech%20Filters%20for%20Adblock%20Plus"
   },
   {
     "description": "Corset is a subscription filter to block intruding ads on sites using Korean.",
@@ -3584,6 +3581,7 @@
     "description": "Blocks banners (paypal, payu, bitcoin and patronite), charity banners, other forms of inclination to support on Polish sites.",
     "homeUrl": "https://github.com/KonoromiHimaries/PolishSubFilters",
     "id": 342,
+    "isDeleted": true,
     "licenseId": 9,
     "name": "Polish Anti-Donate Filters",
     "publishedDate": "2018-01-06T00:00:00",
@@ -3609,6 +3607,7 @@
     "description": "Blocks internal advertising, paid subscriptions, own stores on Polish sites.",
     "homeUrl": "https://github.com/KonoromiHimaries/PolishSubFilters/",
     "id": 344,
+    "isDeleted": true,
     "licenseId": 9,
     "name": "Polish Internal Filters",
     "publishedDate": "2018-01-26T00:00:00",
@@ -4543,7 +4542,7 @@
     "syntaxId": 14,
     "updatedDate": "2019-04-15T06:01:19",
     "viewUrl": "https://raw.githubusercontent.com/googlehosts/hosts/master/hosts-files/hosts",
-    "viewUrlMirror1": "https://coding.net/u/scaffrey/p/hosts/git/raw/master/hosts-files/hosts"
+    "viewUrlMirror1": "https://git.qvq.network/googlehosts/hosts/raw/master/hosts-files/hosts"
   },
   {
     "description": "A filter for uBlock Origin (Firefox Android) that aims to specifically target websites that nags people to install their app.",
@@ -4825,7 +4824,7 @@
     "publishedDate": "2018-04-02T18:25:40",
     "syntaxId": 1,
     "updatedDate": "2018-04-02T18:25:40",
-    "viewUrl": "https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/mozilla/all.txt"
+    "viewUrl": "https://raw.githubusercontent.com/jmdugan/blocklists/master/corporations/mozilla/all"
   },
   {
     "description": "Blocks access to Microsoft domains.",
@@ -5313,7 +5312,7 @@
     "name": "Kowabit - bl*cklist of death - List for Fritz!Box routers",
     "syntaxId": 2,
     "updatedDate": "2019-01-14T09:19:10",
-    "viewUrl": "https://blocklist.kowabit.de/fritzboxliste.txt"
+    "viewUrl": "https://list.kwbt.de/kwbtlist.txt"
   },
   {
     "description": "If you want to specifically block service from Microsoft with respect to Windows 10 , then you use this list.",
@@ -5322,10 +5321,10 @@
     "homeUrl": "https://www.kowabit.de/blcklst/",
     "id": 522,
     "licenseId": 20,
-    "name": "Kowabit - blocklist of death for Windows 10",
+    "name": "Kowabit - bl*cklist of death",
     "syntaxId": 2,
     "updatedDate": "2019-01-14T09:39:10",
-    "viewUrl": "https://blocklist.kowabit.de/win10list.txt"
+    "viewUrl": "https://list.kwbt.de/kwbtlist.txt"
   },
   {
     "description": "This list is a correlated list to only block porn sites that appear on Alex'a top 1m site list.",
@@ -6725,6 +6724,7 @@
     "emailAddress": "hello@bads.team",
     "homeUrl": "https://github.com/dariusworks/superblock",
     "id": 732,
+    "isDeleted": true,
     "issuesUrl": "https://github.com/dariusworks/superblock/issues",
     "licenseId": 2,
     "name": "BADS.TM Cleaner Sites List All In One",
@@ -7784,6 +7784,7 @@
     "descriptionSourceUrl": "https://github.com/SG-Nebula/vblocker_adblockplus-filterlist#why-vblocker",
     "homeUrl": "https://github.com/SG-Nebula/vblocker_adblockplus-filterlist",
     "id": 838,
+    "isDeleted": true,
     "issuesUrl": "https://github.com/SG-Nebula/vblocker_adblockplus-filterlist/issues",
     "licenseId": 7,
     "name": "VBlocker",
@@ -10979,6 +10980,7 @@
   {
     "homeUrl": "https://github.com/deathbybandaid/piholeparser",
     "id": 1125,
+    "isDeleted": true,
     "issuesUrl": "https://github.com/deathbybandaid/piholeparser/issues",
     "licenseId": 14,
     "name": "Bad JAV Sites (Domains)",
@@ -14409,7 +14411,8 @@
     "publishedDate": "2017-05-01T11:15:41",
     "syntaxId": 2,
     "updatedDate": "2019-03-10T15:06:57",
-    "viewUrl": "https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/blacklist.txt"
+    "viewUrl": "https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/blacklist.txt",
+    "viewUrlMirror1": "https://oooo.b-cdn.net/blahdns/adsblock.txt"
   },
   {
     "homeUrl": "https://github.com/ookangzheng/blahdns/tree/master/hosts",
@@ -14476,7 +14479,7 @@
     "publishedDate": "2018-11-01T18:23:42",
     "syntaxId": 25,
     "updatedDate": "2019-04-15T22:34:02",
-    "viewUrl": "https://raw.githubusercontent.com/ookangzheng/blahdns/master/hosts/rpz.blacklist"
+    "viewUrl": "https://oooo.b-cdn.net/blahdns/rpz.txt"
   },
   {
     "homeUrl": "https://github.com/jawz101/MobileAdTrackers",
@@ -14878,6 +14881,7 @@
     "forumUrl": "https://forum.adguard.com/index.php?categories/filter-rules.66/",
     "homeUrl": "https://github.com/AdguardTeam/AdguardFilters",
     "id": 1528,
+    "isDeleted": true,
     "issuesUrl": "https://github.com/AdguardTeam/AdguardFilters/issues",
     "licenseId": 40,
     "name": "AdGuard Base Filter without EasyList (AdGuard for Chromium)",
@@ -15736,8 +15740,8 @@
     "name": "OISD (Hosts)",
     "syntaxId": 1,
     "viewUrl": "https://hosts.oisd.nl/",
-    "viewUrlMirror1": "https://raw.githubusercontent.com/ookangzheng/dbl-oisd-nl/master/dblzero.txt",
-    "viewUrlMirror2": "https://gitlab.com/ookangzheng/dbl-oisd-nl/raw/master/dblzero.txt"
+    "viewUrlMirror1": "https://raw.githubusercontent.com/ookangzheng/dbl-oisd-nl/master/hosts.txt",
+    "viewUrlMirror2": "https://gitlab.com/ookangzheng/dbl-oisd-nl/raw/master/hosts.txt"
   },
   {
     "description": "Introducing the Amazing/Sensational/Remarkable/Revolutionary; #1 Blocklist :)",
@@ -15745,11 +15749,11 @@
     "homeUrl": "https://www.reddit.com/r/pihole/comments/bppug1/introducing_the/",
     "id": 1599,
     "licenseId": 5,
-    "name": "OISD Mobile",
+    "name": "OISD Light",
     "syntaxId": 2,
     "viewUrl": "https://dblmobile.oisd.nl/",
-    "viewUrlMirror1": "https://raw.githubusercontent.com/ookangzheng/dbl-oisd-nl/master/dbl2.txt",
-    "viewUrlMirror2": "https://gitlab.com/ookangzheng/dbl-oisd-nl/raw/master/dbl2.txt"
+    "viewUrlMirror1": "https://raw.githubusercontent.com/ookangzheng/dbl-oisd-nl/master/dbl_light.txt",
+    "viewUrlMirror2": "https://gitlab.com/ookangzheng/dbl-oisd-nl/raw/master/dbl_light.txt"
   },
   {
     "description": "Introducing the Amazing/Sensational/Remarkable/Revolutionary; #1 Blocklist :)",
@@ -15757,11 +15761,11 @@
     "homeUrl": "https://www.reddit.com/r/pihole/comments/bppug1/introducing_the/",
     "id": 1600,
     "licenseId": 5,
-    "name": "OISD Mobile (Hosts)",
+    "name": "OISD Light (Hosts)",
     "syntaxId": 1,
     "viewUrl": "https://hostsmobile.oisd.nl/",
-    "viewUrlMirror1": "https://raw.githubusercontent.com/ookangzheng/dbl-oisd-nl/master/hostsmobile.txt",
-    "viewUrlMirror2": "https://gitlab.com/ookangzheng/dbl-oisd-nl/raw/master/hostsmobile.txt"
+    "viewUrlMirror1": "https://raw.githubusercontent.com/ookangzheng/dbl-oisd-nl/master/hosts_light.txt",
+    "viewUrlMirror2": "https://gitlab.com/ookangzheng/dbl-oisd-nl/raw/master/hosts_light.txt"
   },
   {
     "description": "Currently blocking ad serving and malware domains.",
@@ -15887,7 +15891,7 @@
     "licenseId": 4,
     "name": "Unified Hosts + Fakenews + Gambling (Little Snitch)",
     "syntaxId": 18,
-    "viewUrl": "https://raw.githubusercontent.com/naveednajam/Little-Snitch---Rule-Groups/master/unified_hosts_fakenews-gambling-porn/sb_unified_hosts_fakenews-gambling.lsrules"
+    "viewUrl": "https://raw.githubusercontent.com/naveednajam/Little-Snitch---Rule-Groups/master/unified_hosts_fakenews-gambling/sb_unified_hosts_fakenews-gambling.lsrules"
   },
   {
     "description": "This repo provide rule groups for Little Snitch based on unified host list to block ads, malware, fake news and porn",
@@ -16365,20 +16369,21 @@
     "viewUrl": "https://raw.githubusercontent.com/bzsparks/uMatrix/master/my-umatrix-rules.txt"
   },
   {
-    "description": "Blocks trackers and analytics on web pages",
-    "homeUrl": "https://github.com/Strappazzon/filterlists",
+    "description": "Blocks trackers and analytics in Windows 7",
+    "homeUrl": "https://github.com/Strappazzon/teleme7ry",
     "id": 1661,
-    "issuesUrl": "https://github.com/Strappazzon/filterlists/issues",
+    "issuesUrl": "https://github.com/Strappazzon/teleme7ry/issues",
     "licenseId": 2,
-    "name": "Strappazzon's Tracking list",
-    "syntaxId": 47,
+    "name": "Strappazzon's Tracking list for Windows 7",
+    "syntaxId": 2,
     "updatedDate": "2019-07-12T00:00:00",
-    "viewUrl": "https://raw.githubusercontent.com/Strappazzon/filterlists/master/Filterlists/Tracking.txt"
+    "viewUrl": "https://raw.githubusercontent.com/Strappazzon/teleme7ry/master/rules.txt"
   },
   {
     "description": "Blocks annoyances on web pages including cookie notices, modals and other useless elements",
     "homeUrl": "https://github.com/Strappazzon/filterlists",
     "id": 1662,
+    "isDeleted": true,
     "issuesUrl": "https://github.com/Strappazzon/filterlists/issues",
     "licenseId": 2,
     "name": "Strappazzon's Annoyances filter list",
@@ -16390,6 +16395,7 @@
     "description": "Fixes what my current subscriptions broke",
     "homeUrl": "https://github.com/Strappazzon/filterlists",
     "id": 1663,
+    "isDeleted": true,
     "issuesUrl": "https://github.com/Strappazzon/filterlists/issues",
     "licenseId": 2,
     "name": "Strappazzon's Unbreak",
@@ -16971,7 +16977,7 @@
     "licenseId": 5,
     "name": "PiHole Lists - Quad9",
     "syntaxId": 2,
-    "viewUrl": "https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/Quad9.txt"
+    "viewUrl": "https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/PiHole/Archive/Quad9.txt"
   },
   {
     "homeUrl": "https://github.com/XionKzn/PiHole-Lists/",
@@ -16980,7 +16986,7 @@
     "licenseId": 5,
     "name": "PiHole Lists - Yahoo Ad Servers",
     "syntaxId": 2,
-    "viewUrl": "https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/Yahoo_Ad_Servers.txt"
+    "viewUrl": "https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/PiHole/Archive/Yahoo_Ad_Servers.txt"
   },
   {
     "homeUrl": "https://github.com/XionKzn/PiHole-Lists/",
@@ -16989,7 +16995,7 @@
     "licenseId": 5,
     "name": "PiHole Lists - Spyware",
     "syntaxId": 2,
-    "viewUrl": "https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/PiHole_HOSTS_Spyware.txt"
+    "viewUrl": "https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/PiHole/PiHole_HOSTS_Spyware.txt"
   },
   {
     "homeUrl": "https://github.com/XionKzn/PiHole-Lists/",
@@ -16998,7 +17004,7 @@
     "licenseId": 5,
     "name": "PiHole Lists - Cerber Ransomware",
     "syntaxId": 2,
-    "viewUrl": "https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/Cerber_Ransomware.txt"
+    "viewUrl": "https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/PiHole/Archive/Cerber_Ransomware.txt"
   },
   {
     "homeUrl": "https://github.com/XionKzn/PiHole-Lists/",
@@ -17007,7 +17013,7 @@
     "licenseId": 5,
     "name": "PiHole Lists - Blocklist",
     "syntaxId": 2,
-    "viewUrl": "https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/Blocklist.txt"
+    "viewUrl": "https://raw.githubusercontent.com/XionKzn/PiHole-Lists/master/PiHole/Blocklist.txt"
   },
   {
     "description": "A personal blocklist curated by KurzGedanke.",
@@ -17334,7 +17340,8 @@
     "name": "Energized Blu Protection (Domains)",
     "submissionUrl": "https://app.energized.pro",
     "syntaxId": 2,
-    "viewUrl": "https://block.energized.pro/blu/formats/domains.txt"
+    "viewUrl": "https://block.energized.pro/blu/formats/domains.txt",
+    "viewUrlMirror1": "https://blokada.org/mirror/v5/energized/blu/hosts.txt"
   },
   {
     "chatUrl": "https://t.me/EnergizedProtection",
@@ -17350,7 +17357,8 @@
     "name": "Energized Basic Protection (Domains)",
     "submissionUrl": "https://app.energized.pro",
     "syntaxId": 2,
-    "viewUrl": "https://block.energized.pro/basic/formats/domains.txt"
+    "viewUrl": "https://block.energized.pro/basic/formats/domains.txt",
+    "viewUrlMirror1": "https://blokada.org/mirror/v5/energized/basic/hosts.txt"
   },
   {
     "chatUrl": "https://t.me/EnergizedProtection",
@@ -18221,7 +18229,7 @@
     "licenseId": 5,
     "name": "SSEncrypt Adblock",
     "syntaxId": 29,
-    "viewUrl": "https://raw.githubusercontent.com/HParis/SSEncrypt/master/adblock-reject.list"
+    "viewUrl": "https://raw.githubusercontent.com/HParis/SSEncrypt/master/full-reject.list"
   },
   {
     "homeUrl": "https://github.com/scomper/surge-list/",
@@ -18244,6 +18252,7 @@
   {
     "homeUrl": "https://github.com/ConnersHua/Profiles/tree/master",
     "id": 1805,
+    "isDeleted": true,
     "issuesUrl": "https://github.com/ConnersHua/Profiles/tree/master/issues",
     "licenseId": 2,
     "name": "ConnersHua Pro Ruleset",
@@ -18586,13 +18595,13 @@
     "viewUrlMirror1": "https://gitlab.com/DandelionSprout/adfilt/raw/master/NorwegianExperimentalList%20alternate%20versions/NordicFiltersSocks5.list"
   },
   {
-    "description": "ad filter list ublock origin",
-    "homeUrl": "https://github.com/secretsnow/secretsnow-adfilters/",
+    "description": "Ad Filter list for uBlock Origin.",
+    "homeUrl": "https://github.com/secretsnow/Ad-Filters/",
     "id": 1843,
     "licenseId": 28,
     "name": "secretsnow-adfilters",
     "syntaxId": 3,
-    "viewUrl": "https://raw.githubusercontent.com/secretsnow/secretsnow-adfilters/master/secretsnow-adfilters.txt"
+    "viewUrl": "https://raw.githubusercontent.com/secretsnow/Ad-Filters/master/Ad%20Filters.txt"
   },
   {
     "description": "A simple program made for blocking ads that appear in the MoTD of any Source game (or any other game that also has Pinion, MOTDgd, Unikrn and VPPGamingNetwork appear elsewhere).",
@@ -19006,6 +19015,7 @@
     "description": "This is the \"SAFE LIST\" tested to not break legitimate functionality for commonly used software",
     "homeUrl": "https://github.com/dex4k/dex4kblocklist",
     "id": 1894,
+    "isDeleted": true,
     "issuesUrl": "https://github.com/dex4k/dex4kblocklist/issues",
     "licenseId": 5,
     "name": "dex4k Blocklist",
@@ -19016,6 +19026,7 @@
     "description": "This is a secondary blocklist created as, although I believe the blocking to be legitimate, blocking these domains can break popular apps",
     "homeUrl": "https://github.com/dex4k/dex4kblocklist",
     "id": 1895,
+    "isDeleted": true,
     "issuesUrl": "https://github.com/dex4k/dex4kblocklist/issues",
     "licenseId": 5,
     "name": "dex4k Blocklist Extras",
@@ -19285,7 +19296,7 @@
     "licenseId": 5,
     "name": "Lite App Manifests - Coin Miners",
     "syntaxId": 2,
-    "viewUrl": "https://raw.githubusercontent.com/chimbori/lite-apps/master/blocklists/src/Coin%20Miners/UserSuggested.txt"
+    "viewUrl": "https://raw.githubusercontent.com/chimbori/lite-apps/master/src/blocklists/Coin%20Miners/UserSuggested.txt"
   },
   {
     "homeUrl": "https://github.com/chimbori/lite-apps",
@@ -19294,7 +19305,7 @@
     "licenseId": 5,
     "name": "Lite App Manifests - Paid Content Links",
     "syntaxId": 2,
-    "viewUrl": "https://raw.githubusercontent.com/chimbori/lite-apps/master/blocklists/src/Adware%20and%20Malware/PaidContentLinks.txt"
+    "viewUrl": "https://raw.githubusercontent.com/chimbori/lite-apps/master/src/blocklists/Adware%20and%20Malware/PaidContentLinks.txt"
   },
   {
     "homeUrl": "https://github.com/chimbori/lite-apps",
@@ -19303,7 +19314,7 @@
     "licenseId": 5,
     "name": "Lite App Manifests - User Suggested Adware and Malware",
     "syntaxId": 2,
-    "viewUrl": "https://raw.githubusercontent.com/chimbori/lite-apps/master/blocklists/src/Adware%20and%20Malware/UserSuggested.txt"
+    "viewUrl": "https://raw.githubusercontent.com/chimbori/lite-apps/master/src/blocklists/Adware%20and%20Malware/UserSuggested.txt"
   },
   {
     "homeUrl": "https://github.com/jackrabbit335/UsefulLinuxShellScripts",
@@ -19955,7 +19966,7 @@
     "name": "Say No to Racism on Twitch",
     "syntaxId": 3,
     "viewUrl": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/SayNoToRacismOnTwitch.txt",
-    "viewUrlMirror1": "https://gitlab.com/DandelionSprout/adfilt/raw/master/Other%20domains%20versions/SayNoToRacismOnTwitch.txt"
+    "viewUrlMirror1": "https://gitlab.com/DandelionSprout/adfilt/raw/master/SayNoToRacismOnTwitch.txt"
   },
   {
     "description": "This list aims to restore MeWe to its late 2017 state, before public post sharing and the «Pages» function eroded its carefree walled gardens.",
@@ -19968,7 +19979,7 @@
     "name": "MeWe Happy Time Fun Club",
     "syntaxId": 3,
     "viewUrl": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/MeWeHappyTimeFunClub.txt",
-    "viewUrlMirror1": "https://gitlab.com/DandelionSprout/adfilt/raw/master/Other%20domains%20versions/MeWeHappyTimeFunClub.txt"
+    "viewUrlMirror1": "https://gitlab.com/DandelionSprout/adfilt/raw/master/MeWeHappyTimeFunClub.txt"
   },
   {
     "description": "Are you desperate to get some quality time with your brother or dad, who is so much into Pokémon GO that they play it to this day while hacking around from the couch? Here's how to get that quality time back… unless they just switch to 4G instead, in which case you're screwed. May also work against 'Harry Potter: Wizards Unite' and 'Ingress Prime'",
@@ -19981,7 +19992,7 @@
     "name": "Pokémon No-GO Zone",
     "syntaxId": 47,
     "viewUrl": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Pok%C3%A9monNoGOZone.txt",
-    "viewUrlMirror1": "https://gitlab.com/DandelionSprout/adfilt/raw/master/Other%20domains%20versions/Pok%C3%A9monNoGOZone.txt"
+    "viewUrlMirror1": "https://gitlab.com/DandelionSprout/adfilt/raw/master/Pok%C3%A9monNoGOZone.txt"
   },
   {
     "description": "Are you tired of having to scroll so much on websites, or you want to keep your eyes on more text and content at once? If so, this list will help you a little extra bit with that.",
@@ -19994,7 +20005,7 @@
     "name": "Empty Padding Remover",
     "syntaxId": 4,
     "viewUrl": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/EmptyPaddingRemover.txt",
-    "viewUrlMirror1": "https://gitlab.com/DandelionSprout/adfilt/raw/master/Other%20domains%20versions/EmptyPaddingRemover.txt"
+    "viewUrlMirror1": "https://gitlab.com/DandelionSprout/adfilt/raw/master/EmptyPaddingRemover.txt"
   },
   {
     "description": "The font situation on many Japanese websites is kind-of absolutely atrocious. They use super-stiff janky fonts resemblant of Windows 95 or Amiga. And even worse, many of the sites also default to the stiff Japanese fonts' atrocious Latin letter types. Here's how to use the sites in a way that is compatible with the 3rd decade of the 21st century.",
@@ -20007,7 +20018,7 @@
     "name": "Japanese Text Softener",
     "syntaxId": 4,
     "viewUrl": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/JapaneseTextSoftener.txt",
-    "viewUrlMirror1": "https://gitlab.com/DandelionSprout/adfilt/raw/master/Other%20domains%20versions/JapaneseTextSoftener.txt"
+    "viewUrlMirror1": "https://gitlab.com/DandelionSprout/adfilt/raw/master/JapaneseTextSoftener.txt"
   },
   {
     "id": 1992,
@@ -20208,6 +20219,7 @@
   {
     "homeUrl": "https://blocklist.site/",
     "id": 2016,
+    "isDeleted": true,
     "licenseId": 5,
     "name": "Block List Project: Spam",
     "syntaxId": 2,
@@ -20335,6 +20347,7 @@
   },
   {
     "id": 2033,
+    "isDeleted": true,
     "licenseId": 5,
     "name": "Blockzilla (Hosts)",
     "syntaxId": 1,
@@ -20414,6 +20427,7 @@
     "description": "A filter that blocks the thumbnails of users that upload junk or stuff in the wrong categories.",
     "homeUrl": "https://github.com/lassekongo83/Frellwits-filter-lists",
     "id": 2042,
+    "isDeleted": true,
     "issuesUrl": "https://github.com/lassekongo83/Frellwits-filter-lists/issues",
     "licenseId": 4,
     "name": "deviantJUNKfilter",
@@ -20584,14 +20598,14 @@
     "viewUrl": "https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains"
   },
   {
-    "description": "Blocks BitTorrent websites (+ alternative domains & proxies), clients, trackers and DHT bootstrap nodes.",
+    "description": "Blocks BitTorrent websites (+ alternative domains & proxies), clients, and DHT bootstrap nodes.",
     "homeUrl": "https://github.com/nextdns/bittorrent-blocklist",
     "id": 2058,
     "issuesUrl": "https://github.com/nextdns/bittorrent-blocklist/issues",
     "licenseId": 2,
-    "name": "NextDNS BitTorrent Blocklist",
+    "name": "NextDNS BitTorrent Website Blocklist",
     "syntaxId": 2,
-    "viewUrl": "https://raw.githubusercontent.com/nextdns/bittorrent-blocklist/master/domains"
+    "viewUrl": "https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/torrent-websites"
   },
   {
     "homeUrl": "https://gist.github.com/Marfjeh/97f2f049b41b3f09eabcc04004073ae3",
@@ -20607,13 +20621,14 @@
     "issuesUrl": "https://github.com/Cybo1927/Hosts/issues",
     "licenseId": 11,
     "name": "Cybo's Hosts - Extra Format",
-    "syntaxId": 3,
-    "viewUrl": "https://raw.githubusercontent.com/Cybo1927/Hosts/master/Other%20Formats/Extra%20Format"
+    "syntaxId": 4,
+    "viewUrl": "https://raw.githubusercontent.com/Cybo1927/Hosts/master/Other%20Formats/Extra%20Format%201"
   },
   {
     "description": "This List Is Better Than The Other Hosts For DNS Sinkholes And Slow Computers (If Used With An Adblocker)",
     "homeUrl": "https://github.com/Cybo1927/Hosts",
     "id": 2061,
+    "isDeleted": true,
     "issuesUrl": "https://github.com/Cybo1927/Hosts/issues",
     "licenseId": 11,
     "name": "Cybo's Simplified Domains",
@@ -21061,7 +21076,7 @@
     "name": "GDPR 451 List of Mostly American Websites Who Hate Europe and Privacy Rights",
     "syntaxId": 2,
     "viewUrl": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/GDPR%20451%20List.txt",
-    "viewUrlMirror1": "https://gitlab.com/DandelionSprout/adfilt/raw/master/Other%20domains%20versions/GDPR%20451%20List.txt"
+    "viewUrlMirror1": "https://gitlab.com/DandelionSprout/adfilt/raw/master/GDPR%20451%20List.txt"
   },
   {
     "description": "A list that make links to certain websites redirect to the proper .onion pages. For example, clicking on links to nytimes.com would instead lead to nytimes3xbfgragh.onion.",
@@ -21074,7 +21089,7 @@
     "name": "Tor Redirector List (URLRedirector)",
     "syntaxId": 31,
     "viewUrl": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Other%20domains%20versions/TorRedirectorList-URLRedirector.json",
-    "viewUrlMirror1": "https://gitlab.com/DandelionSprout/adfilt/raw/master/Other%20domains%20versions/Other%20domains%20versions/TorRedirectorList-URLRedirector.json"
+    "viewUrlMirror1": "https://gitlab.com/DandelionSprout/adfilt/raw/master/Other%20domains%20versions/TorRedirectorList-URLRedirector.json"
   },
   {
     "description": "Are you tired of having to scroll so much on websites, or you want to keep your eyes on more text and content at once? If so, this list will help you a little extra bit with that.",
@@ -21087,7 +21102,7 @@
     "name": "Media Player Gradient Remover",
     "syntaxId": 3,
     "viewUrl": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/MediaPlayerGradientRemover.txt",
-    "viewUrlMirror1": "https://gitlab.com/DandelionSprout/adfilt/raw/master/Other%20domains%20versions/MediaPlayerGradientRemover.txt"
+    "viewUrlMirror1": "https://gitlab.com/DandelionSprout/adfilt/raw/master/MediaPlayerGradientRemover.txt"
   },
   {
     "homeUrl": "https://github.com/mediumkreation/IndianList",
@@ -21361,7 +21376,7 @@
     "publishedDate": "2018-06-02T20:09:11",
     "syntaxId": 20,
     "updatedDate": "2019-03-02T03:26:23",
-    "viewUrl": "https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/openwrt/spy.txt"
+    "viewUrl": "https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/openwrt/spy/dnsmasq.conf"
   },
   {
     "description": "Blocks Windows updates.",
@@ -21374,7 +21389,7 @@
     "publishedDate": "2018-06-02T20:09:11",
     "syntaxId": 20,
     "updatedDate": "2019-03-02T03:26:23",
-    "viewUrl": "https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/openwrt/update.txt"
+    "viewUrl": "https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/openwrt/update/dnsmasq.conf"
   },
   {
     "donateUrl": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CXF2HBWCMSZVL",
@@ -21386,7 +21401,7 @@
     "publishedDate": "2018-06-02T20:09:11",
     "syntaxId": 20,
     "updatedDate": "2019-04-02T20:52:40",
-    "viewUrl": "https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/openwrt/extra.txt"
+    "viewUrl": "https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/openwrt/extra/dnsmasq.conf"
   },
   {
     "donateUrl": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=CXF2HBWCMSZVL",
@@ -21523,7 +21538,7 @@
     "name": "IDN Homograph Attack Protection - Does Not Block Non-Latin TLDs",
     "syntaxId": 28,
     "viewUrl": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Special%20security%20lists/IDNHomographProtection-USLatinTLDsOnly.txt",
-    "viewUrlMirror1": "https://gitlab.com/DandelionSprout/adfilt/raw/master/Special%20security%20lists/IDNHomographProtection-USLatinTLDsOnly.txt.txt"
+    "viewUrlMirror1": "https://gitlab.com/DandelionSprout/adfilt/raw/master/Special%20security%20lists/IDNHomographProtection-USLatinTLDsOnly.txt"
   },
   {
     "description": "You'd think that a country's biggest national newspaper would stick to news and newspaper stuff, and not try to offer escort services, massage services, sex toys, sex models, pinup models, sex party stories, big asses, masochism with Nazi overtones, pornstars, porn videos, porn sites, Playboy models, swinger clubs, brothels, or strip clubs. Ekstra Bladet didn't catch that memo. So here's a list that'll keep that site focused on actual newspaper content.",
@@ -21536,7 +21551,7 @@
     "name": "Ekstra Bladet Erotic Content Remover",
     "syntaxId": 3,
     "viewUrl": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/EkstraBladetEroticContentRemover.txt",
-    "viewUrlMirror1": "https://gitlab.com/DandelionSprout/adfilt/raw/master/Special%20security%20lists/EkstraBladetEroticContentRemover.txt"
+    "viewUrlMirror1": "https://gitlab.com/DandelionSprout/adfilt/raw/master/EkstraBladetEroticContentRemover.txt"
   },
   {
     "description": "Malware, phishing and scam domain block list. This is a bleeding-edge list fed by the tens of scam emails coming to my inbox every day, and will serve as a temporary countermeasure until these domains are added to Safe Browsing.",
@@ -21593,7 +21608,7 @@
     "name": "Undertale Remover for SoundCloud",
     "syntaxId": 3,
     "viewUrl": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/UndertaleRemoverForSoundCloud.txt",
-    "viewUrlMirror1": "https://gitlab.com/DandelionSprout/adfilt/raw/master/Special%20security%20lists/UndertaleRemoverForSoundCloud.txt"
+    "viewUrlMirror1": "https://gitlab.com/DandelionSprout/adfilt/raw/master/UndertaleRemoverForSoundCloud.txt"
   },
   {
     "description": "A blocklist of malicious URLs that are being used for malware distribution.",
@@ -22257,12 +22272,13 @@
     "name": "Anti-'Anthro combat-equipment gacha waifu' List",
     "syntaxId": 3,
     "viewUrl": "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/AntiAnthroCombatWaifuList.txt",
-    "viewUrlMirror1": "https://gitlab.com/DandelionSprout/adfilt/raw/master/Special%20security%20lists/AntiAnthroCombatWaifuList.txt"
+    "viewUrlMirror1": "https://gitlab.com/DandelionSprout/adfilt/raw/master/AntiAnthroCombatWaifuList.txt"
   },
   {
     "description": "Includes a list of rules to prevent ad and tracking servers from compromising your privacy or bypassing Adguard Adblocker Extension.",
     "homeUrl": "https://github.com/InnoScorpio/Public_Adblock_Filters",
     "id": 2221,
+    "isDeleted": true,
     "issuesUrl": "https://github.com/InnoScorpio/Public_Adblock_Filters/issues",
     "licenseId": 11,
     "name": "AdGuard Adblocker Extension Bypass Mitigation List",
@@ -22273,9 +22289,10 @@
     "description": "Includes a list of rules to prevent ad and tracking servers from compromising your privacy or bypassing Adguard software for iOS, Android, and Windows.",
     "homeUrl": "https://github.com/InnoScorpio/Public_Adblock_Filters",
     "id": 2222,
+    "isDeleted": true,
     "issuesUrl": "https://github.com/InnoScorpio/Public_Adblock_Filters/issues",
     "licenseId": 11,
-    "name": "Adguard for iOS, Android, and Windows Bypass Mitigation List",
+    "name": "AdGuard for iOS, Android, and Windows Bypass Mitigation List",
     "syntaxId": 6,
     "viewUrl": "https://raw.githubusercontent.com/InnoScorpio/Public_Adblock_Filters/master/Enforcement/Adguard/iOS_AND_WIN_Bypass_Mitigation.txt"
   },
@@ -22283,6 +22300,7 @@
     "description": "Includes a list of rules to prevent ad and tracking servers from compromising your privacy or bypassing uBlock Origin or Nano Adblocker.",
     "homeUrl": "https://github.com/InnoScorpio/Public_Adblock_Filters",
     "id": 2223,
+    "isDeleted": true,
     "issuesUrl": "https://github.com/InnoScorpio/Public_Adblock_Filters/issues",
     "licenseId": 11,
     "name": "uBlock Origin Bypass Mitigation List",
@@ -22293,6 +22311,7 @@
     "description": "Behind-the-scene network requests are network requests which uBlock or uMatrix cannot associate with a specific tab in your browser. These can be abused by extensions in your web browser or made by web pages using navigator.sendBeacon(), hyperlink auditing, etc. ",
     "homeUrl": "https://github.com/InnoScorpio/Public_Adblock_Filters",
     "id": 2224,
+    "isDeleted": true,
     "issuesUrl": "https://github.com/InnoScorpio/Public_Adblock_Filters/issues",
     "licenseId": 11,
     "name": "Behind-the-Scene Mitigation for uBlock Origin",
@@ -22303,6 +22322,7 @@
     "description": "Behind-the-scene network requests are network requests which uBlock or uMatrix cannot associate with a specific tab in your browser. These can be abused by extensions in your web browser or made by web pages using navigator.sendBeacon(), hyperlink auditing, etc. Block CSP reports and pings in uMatrix.",
     "homeUrl": "https://github.com/InnoScorpio/Public_Adblock_Filters",
     "id": 2225,
+    "isDeleted": true,
     "issuesUrl": "https://github.com/InnoScorpio/Public_Adblock_Filters/issues",
     "licenseId": 11,
     "name": "Behind-the-Scene and Bypass Mitigation for uMatrix",
@@ -22313,6 +22333,7 @@
     "description": "Block dangerous Android file extensions from HTTP-only traffic to increase security against potential exploits, download cradles, drive-by-download attacks, and malicious code. Intended for Adguard.",
     "homeUrl": "https://github.com/InnoScorpio/Public_Adblock_Filters",
     "id": 2226,
+    "isDeleted": true,
     "issuesUrl": "https://github.com/InnoScorpio/Public_Adblock_Filters/issues",
     "licenseId": 11,
     "name": "Android File Types Firewall HTTP-Only for Adguard",
@@ -22323,6 +22344,7 @@
     "description": "Block dangerous Android file extensions from HTTP-only traffic to increase security against potential exploits, download cradles, drive-by-download attacks, and malicious code. Intended for uBlock Origin or Nano Defender.",
     "homeUrl": "https://github.com/InnoScorpio/Public_Adblock_Filters",
     "id": 2227,
+    "isDeleted": true,
     "issuesUrl": "https://github.com/InnoScorpio/Public_Adblock_Filters/issues",
     "licenseId": 11,
     "name": "Android File Types Firewall HTTP-Only for uBlock Origin",
@@ -22333,6 +22355,7 @@
     "description": "Block dangerous Windows file extensions from HTTP-only traffic to increase security against potential exploits, download cradles, drive-by-download attacks, and malicious code. Intended for Adguard.",
     "homeUrl": "https://github.com/InnoScorpio/Public_Adblock_Filters",
     "id": 2228,
+    "isDeleted": true,
     "issuesUrl": "https://github.com/InnoScorpio/Public_Adblock_Filters/issues",
     "licenseId": 11,
     "name": "Windows Files Types Firewall HTTP-Only for Adguard",
@@ -22343,6 +22366,7 @@
     "description": "Block dangerous Windows file extensions from HTTP-Only traffic to increase security against potential exploits, download cradles, drive-by-download attacks, and malicious code. Intended for uBlock Origin or Nano Defender.",
     "homeUrl": "https://github.com/InnoScorpio/Public_Adblock_Filters",
     "id": 2229,
+    "isDeleted": true,
     "issuesUrl": "https://github.com/InnoScorpio/Public_Adblock_Filters/issues",
     "licenseId": 11,
     "name": "Windows File Types Firewall HTTP-Only for uBlock Origin",
@@ -22424,7 +22448,7 @@
     "publishedDate": "2017-06-09T13:17:30",
     "syntaxId": 3,
     "updatedDate": "2019-08-18T07:04:32",
-    "viewUrl": "https://easylist-downloads.adblockplus.org/easylistczechandslovak-minified.txt"
+    "viewUrl": "https://hg.adblockplus.org/customfilterlists/raw-file/default/easylistczechandslovak-minified.txt"
   },
   {
     "description": "EasyList Dutch is an EasyList-affiliated filter list written by the EasyList author Famlam that specifically removes adverts on Dutch language websites. The Minified lists are part of an Adblock Plus-hosted unofficial project that was hardforked from their source lists in August 2019, and which have only seen sporadic updates since then.",
@@ -22510,7 +22534,7 @@
     "publishedDate": "2017-06-09T13:17:30",
     "syntaxId": 3,
     "updatedDate": "2019-08-18T07:04:32",
-    "viewUrl": "https://easylist.to/easylist/easyprivacy-minified.txt"
+    "viewUrl": "https://easylist-downloads.adblockplus.org/easyprivacy-minified.txt"
   },
   {
     "description": "Hide and block social content, social widgets, social scripts and social icons. The Minified lists are part of an Adblock Plus-hosted unofficial project that was hardforked from their source lists in August 2019, and which have only seen sporadic updates since then.",
@@ -22565,7 +22589,7 @@
     "publishedDate": "2017-06-09T13:17:30",
     "syntaxId": 3,
     "updatedDate": "2019-08-18T07:04:32",
-    "viewUrl": "https://easylist-downloads.adblockplus.org/liste_ar-minified.txt"
+    "viewUrl": "https://hg.adblockplus.org/customfilterlists/raw-file/default/liste_ar-minified.txt"
   },
   {
     "description": "Liste FR is an EasyList affiliated filter list that specifically removes adverts on French-language websites. The Minified lists are part of an Adblock Plus-hosted unofficial project that was hardforked from their source lists in August 2019, and which have only seen sporadic updates since then.",
@@ -22668,6 +22692,7 @@
     "description": "Official filter list file used for blocking ads on Czech and Slovak websites. The Minified lists are part of an Adblock Plus-hosted unofficial project that was hardforked from their source lists in August 2019, and which have only seen sporadic updates since then.",
     "homeUrl": "https://hg.adblockplus.org/customfilterlists/file/default",
     "id": 2259,
+    "isDeleted": true,
     "licenseId": 8,
     "name": "EasyList Czech and Slovak (TPL Minified)",
     "publishedDate": "2017-06-09T13:17:30",
@@ -22759,7 +22784,7 @@
     "publishedDate": "2017-06-09T13:17:30",
     "syntaxId": 10,
     "updatedDate": "2019-08-18T07:04:32",
-    "viewUrl": "https://easylist.to/easylist/easyprivacy-minified.tpl"
+    "viewUrl": "https://easylist-downloads.adblockplus.org/easyprivacy-minified.tpl"
   },
   {
     "description": "Hide and block social content, social widgets, social scripts and social icons. The Minified lists are part of an Adblock Plus-hosted unofficial project that was hardforked from their source lists in August 2019, and which have only seen sporadic updates since then.",
@@ -22809,6 +22834,7 @@
     "description": "Liste AR is an EasyList affiliated filter list that specifically removes adverts on Arabic language websites. The Minified lists are part of an Adblock Plus-hosted unofficial project that was hardforked from their source lists in August 2019, and which have only seen sporadic updates since then.",
     "homeUrl": "https://hg.adblockplus.org/customfilterlists/file/default",
     "id": 2272,
+    "isDeleted": true,
     "licenseId": 6,
     "name": "Liste AR (TPL Minified)",
     "publishedDate": "2017-06-09T13:17:30",
@@ -23117,7 +23143,7 @@
     "issuesUrl": "https://github.com/anthony-wang/PiHoleBlocklist/issues",
     "name": "PiHoleBlocklist - Xiaomi 1",
     "syntaxId": 2,
-    "viewUrl": "https://raw.githubusercontent.com/anthony-wang/PiHoleBlocklist/master/hosts1"
+    "viewUrl": "https://raw.githubusercontent.com/anthony-wang/PiHoleBlocklist/master/hosts1.txt"
   },
   {
     "description": "This is a custom regex.list file for use with Pi-hole v4+ (FTLDNS).",
@@ -23239,8 +23265,7 @@
     "licenseId": 5,
     "name": "The REScure Cyber Threat Intelligence Feed Project (beta) Maze Ransomware",
     "syntaxId": 2,
-    "viewUrl": "https://rescure.fruxlabs.com/maze.txt",
-    "viewUrlMirror1": "https://kriskintel.com/ktip_maze.txt"
+    "viewUrl": "https://kriskintel.com/ktip_maze.txt"
   },
   {
     "description": "List of malicious domains being leveraged by malware/malicious actors.",
@@ -23363,7 +23388,7 @@
     "licenseId": 8,
     "name": "phishing-filter (Domains)",
     "syntaxId": 2,
-    "viewUrl": "https://gitlab.com/curben/phishing-filter/raw/master/phishing-filter-domains.txt",
+    "viewUrl": "https://gitlab.com/curben/phishing-filter/raw/master/dist/phishing-filter-domains.txt",
     "viewUrlMirror1": "https://cdn.statically.io/gl/curben/phishing-filter/master/phishing-filter-domains.txt",
     "viewUrlMirror2": "https://glcdn.githack.com/curben/phishing-filter/raw/master/dist/phishing-filter-domains.txt"
   },
@@ -23387,7 +23412,7 @@
     "id": 2326,
     "issuesUrl": "https://gitlab.com/curben/phishing-filter/issues",
     "licenseId": 8,
-    "name": "phishing-filter (hosts)",
+    "name": "phishing-filter (Hosts)",
     "syntaxId": 1,
     "viewUrl": "https://gitlab.com/curben/phishing-filter/raw/master/dist/phishing-filter-hosts.txt",
     "viewUrlMirror1": "https://cdn.statically.io/gl/curben/phishing-filter/master/dist/phishing-filter-hosts.txt",
@@ -23743,8 +23768,7 @@
     "licenseId": 2,
     "name": "AdBlockList",
     "syntaxId": 28,
-    "viewUrl": "https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdBlock",
-    "viewUrlMirror1": "https://licolnlee.icu/AdBlockList/AdBlock"
+    "viewUrl": "https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdBlock"
   },
   {
     "description": "Self-Customized AdBlockList Focusing on DNS hijacking and AdBlock.",
@@ -23755,8 +23779,7 @@
     "licenseId": 2,
     "name": "AdBlockList Lite",
     "syntaxId": 28,
-    "viewUrl": "https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdBlockLite",
-    "viewUrlMirror1": "https://licolnlee.icu/AdBlockList/AdBlockLite"
+    "viewUrl": "https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdBlockLite"
   },
   {
     "description": "Self-Customized AdBlockList Focusing on DNS hijacking and AdBlock.",
@@ -23767,8 +23790,7 @@
     "licenseId": 2,
     "name": "AdBlockList (Domains)",
     "syntaxId": 2,
-    "viewUrl": "https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdList",
-    "viewUrlMirror1": "https://licolnlee.icu/AdBlockList/AdList"
+    "viewUrl": "https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdList"
   },
   {
     "description": "Self-Customized AdBlockList Focusing on DNS hijacking and AdBlock.",
@@ -23779,8 +23801,7 @@
     "licenseId": 2,
     "name": "AdBlockList Lite (Domains)",
     "syntaxId": 2,
-    "viewUrl": "https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdListLite",
-    "viewUrlMirror1": "https://licolnlee.icu/AdBlockList/AdListLite"
+    "viewUrl": "https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdListLite"
   },
   {
     "description": "Self-Customized AdBlockList Focusing on DNS hijacking and AdBlock.",
@@ -23791,8 +23812,7 @@
     "licenseId": 2,
     "name": "AdBlockList (Hosts)",
     "syntaxId": 1,
-    "viewUrl": "https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdBlock-dnsmasq",
-    "viewUrlMirror1": "https://licolnlee.icu/AdBlockList/AdBlock-dnsmasq"
+    "viewUrl": "https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdBlock-dnsmasq"
   },
   {
     "description": "Self-Customized AdBlockList Focusing on DNS hijacking and AdBlock.",
@@ -23803,8 +23823,7 @@
     "licenseId": 2,
     "name": "AdBlockList Lite (Hosts)",
     "syntaxId": 1,
-    "viewUrl": "https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdBlockLite-dnsmasq",
-    "viewUrlMirror1": "https://licolnlee.icu/AdBlockList/AdBlockListe-dnsmasq"
+    "viewUrl": "https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdBlockLite-dnsmasq"
   },
   {
     "description": "Self-Customized AdBlockList Focusing on DNS hijacking and AdBlock.",
@@ -23815,8 +23834,7 @@
     "licenseId": 2,
     "name": "AdBlockList Allowlist",
     "syntaxId": 47,
-    "viewUrl": "https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdAllowlist",
-    "viewUrlMirror1": "https://licolnlee.icu/AdBlockList/AdAllowlist"
+    "viewUrl": "https://raw.githubusercontent.com/Licolnlee/AdBlockList/master/AdAllowlist"
   },
   {
     "description": "This is a ad-block-rule maintained by XBrowser official.",
